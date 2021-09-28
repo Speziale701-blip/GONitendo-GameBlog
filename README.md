@@ -1,1 +1,1 @@
-# Blog
+# Game Blog
